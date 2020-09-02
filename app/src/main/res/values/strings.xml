@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+
+    <string name="to_do_title_hint">New To-Do</string>
+    <string name="to_do_description_hint">Notes</string>
+    <string name="to_do_solved">Solved</string>
+
+    <string name="to_do_report">I need to do this %1$s, %2$s.</string>
+    <string name="to_do_subject">ToDoList ToDo Report</string>
+</resources>

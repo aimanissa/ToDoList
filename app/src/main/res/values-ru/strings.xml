@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo List</string>
+
+    <string name="to_do_title_hint">Новое дело</string>
+    <string name="to_do_description_hint">Заметки</string>
+    <string name="to_do_solved">Решено</string>
+
+    <string name="to_do_report">Мне нужно сделать это %1$s, %2$s.</string>
+    <string name="to_do_subject">ToDoList. Отчет о моих делах</string>
+</resources>
